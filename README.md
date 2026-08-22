@@ -105,8 +105,7 @@ NYC-Taxi-Spark-ML-Classification/
 │   └── 4_evaluation.ipynb
 │
 ├── data/
-│   └── samples/
-│       └── nyc_taxi_sample.csv
+│   └── nyc_taxi_sample.csv
 │
 ├── tableau/
 │   ├── NYC_Taxi_Dashboard_1_Data_Quality.twbx
